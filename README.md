@@ -7,3 +7,7 @@ if you want compile from sources smstools, in this repository you can, with new 
 https://github.com/pappicio/smstools3
 
 enjoy!!!
+
+
+P.S. fix to php 8.1
+https://powerpbx.org/content/playsms15-debian11-v1
