@@ -1,4 +1,4 @@
-# smstools3-for-debian-10/11/12 and Ubunti 20/22/23
+# smstools3-for-debian-10/11/12 and Ubuntu 20/22/23
 
 this is only a guide (doc file) to install playsms and smstools3 on debian 11 or ubuntu 22.04, but.....
 
